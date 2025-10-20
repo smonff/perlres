@@ -61,7 +61,7 @@ Perl is distributed under a dual licence : [Artistic Licence](https://opensour
 - :black_square_button: [Square Perl](https://squareperl.com) - Multilingual site about Perl programming
 - :school: [Enlightened Perl](https://ww2.enlightenedperl.org) - An organization supporting Perl
 - :eyes: [P3rl.org](https://p3rl.org) - Documentation portal about Perl
-- :star2: [BIP](http://builtinperl.com) - Blog, job board and companies directory
+- :star2: [BIP]([http://builtinperl.com](https://web.archive.org/web/20171122192857/http://builtinperl.com/perl-companies) - Blog, job board and companies directory (archive.org copy)
 
 ## :fuelpump: Around the CPAN
 - :ocean: [CPAN Deps](http://deps.cpantesters.org) - List dependencies for a CPAN module ([github](https://github.com/DrHyde/CPANdeps))
